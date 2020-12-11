@@ -1,0 +1,14 @@
+.container h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: darkmagenta;
+    letter-spacing: 2px;
+}
+
+.container img {
+    display: block;
+    margin: 10px auto;
+    height: 600px;
+    width: 640px;
+}

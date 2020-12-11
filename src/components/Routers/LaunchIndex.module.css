@@ -1,0 +1,32 @@
+.item {
+    list-style-type: none;
+}
+
+.item > a {
+    text-decoration: none;
+    color: darkmagenta;
+    opacity: 0.7;
+}
+
+.item > a:hover {
+    opacity: 1;
+    
+}
+
+.item h2 {
+    text-align: center;
+}
+
+.list {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 10px 10px;
+    padding: 10px;
+}
+
+.product {
+    height: 350px;
+    width: 350px;
+    margin: 0 1rem;
+}

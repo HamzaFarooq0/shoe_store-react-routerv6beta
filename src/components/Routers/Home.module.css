@@ -1,0 +1,30 @@
+.container {
+    font-size: 2em;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 10%;
+    color: darkmagenta;
+}
+.container h1 {
+    letter-spacing: 2px;
+}
+
+.button {
+    padding: 1rem 1.2rem;
+    font-size: 1.2rem;
+    background-color: darkorange;
+    border: none;
+    outline: none;
+    border: 2px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: rgb(255, 72, 0);
+    transition: all 0.5s;
+}
+
+.button a {
+    text-decoration: none;
+    letter-spacing: 2px;
+}
