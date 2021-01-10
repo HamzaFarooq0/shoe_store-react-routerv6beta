@@ -1,4 +1,4 @@
-## [Live Demo](shoe-store-445.surge.sh)
+## [Live Demo](http://shoe-store-445.surge.sh/)
 
 # Getting Started with Create React App
 
